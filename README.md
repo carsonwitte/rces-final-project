@@ -15,3 +15,5 @@ Visible Satellite Imagery: Landsat or MODIS, but I haven't yet found an elegant 
 Local Meteorological Data from OTZ airport: see 'otz-met-data.csv' in this repository.
 
 I also have a 1-year timeseries from a mooring I installed at the edge of Kotzebue sound, which I would like to incorporate in this analysis if it ends up making sense. Unfortunately there are not any Argo floats in the Chukchi Sea, save a single one that started reporting recently in late 2018 which could be of some use. 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cwitte13/rces-final-project/master?filepath=Witte-Rces-Final-Project-IkSi.ipynb)
